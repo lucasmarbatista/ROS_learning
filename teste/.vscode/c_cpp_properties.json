@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/lucasbatista/catkin_ws2/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/lucasbatista/catkin_ws2/src/turtlebot/src/turtlebot_create_desktop/create_gazebo_plugins/include",
+                "/home/lucasbatista/catkin_ws2/src/husky/husky_base/include",
+                "/home/lucasbatista/catkin_ws2/src/husky_highlevel_controller/include",
+                "/home/lucasbatista/catkin_ws2/src/teste/include",
+                "/home/lucasbatista/catkin_ws2/src/turtlebot/src/turtlebot_apps/turtlebot_actions/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
